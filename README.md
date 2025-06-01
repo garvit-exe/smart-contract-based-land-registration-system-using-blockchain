@@ -1,9 +1,11 @@
-
 # Blockchain-Based Land Registry
 
 ## Project Overview
 
 This is a comprehensive blockchain-based land registry management system that leverages distributed ledger technology to provide secure, transparent, and efficient property ownership verification and transfer. The system addresses critical challenges in traditional land registry systems, including fraud prevention, transparency issues, and inefficient record-keeping processes.
+
+> Note: The Supabase database has crossed the free tier usage, thus, the authentication and data retrieval are no longer working.
+> Hard coded demo auth credentials and sample data will be available in the future to access the project.
 
 ## Architecture
 
